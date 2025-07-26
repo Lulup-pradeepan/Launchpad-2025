@@ -1,8 +1,8 @@
-# Full Name 
+Lulu Pradeepan# Full Name 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I am a 2nd year B. Tech Computer Science student at St Joseph's College of Engineering and Technology, palai> write about your self .................. (minimum 200 Characters)
 
 
 ## Portfolio Highlights
